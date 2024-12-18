@@ -11,3 +11,7 @@ Next Violation (per the main admins' decision): -60% rights
 Next Violation (again, per the main admins' decision): -100% rights
 
 People can be granted a last parole (after losing 100% rights) based on the severity of the violation and fascism, and on how much rights the violator can win back through certain actions.
+
+Credits:
+Web developer - Tawseef 
+Rule discussion -Tameem & Tawseef 
