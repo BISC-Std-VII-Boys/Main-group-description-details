@@ -1,10 +1,10 @@
-Nobody can disadmin or remove members without the permission of the main Tameem, Tawseef, or Saif. Additionally, nobody can disadmin the main admins; otherwise, punishments or penalties will be given.
+Nobody can disadmin or remove members without the permission of the Tameem, Tawseef, or Saif. Additionally, nobody can disadmin the main admins; otherwise, punishments or penalties will be given.
 
 Disclaimer: Saif, Tawseef, Tameem, and Rownak can decide when to give warnings and how many warnings to give before the violator starts to lose a portion of their rights. Admins can also decide when to issue penalizations, but the penalizations must follow this order:
 
 First Violation: Warning
 
-Next Violation (or when admins decide to take portions of the rights): -40% rights
+Next Violation (or when main admins decide to take portions of the rights): -40% rights
 
 Next Violation (per the main admins' decision): -60% rights
 
