@@ -14,7 +14,7 @@ People can be granted a last parole (after losing 100% rights) based on the seve
 
 Losing 100% of the rights and violating last parole would result in the violator being disadmined or a punishment would be given or the violator may be removed or actions would be taken
 
-removal of the website from the group's description will get the person who removed it striped of their Admin rights. This dosn't apply to Saif and Tawseef
+Removal of the website from the group's description will get the person who removed it striped of their Admin rights. This doesn't apply to Saif and Tawseef
 
 Credits:
 
